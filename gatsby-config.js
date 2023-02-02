@@ -60,13 +60,5 @@ module.exports = {
       },
     },
     "gatsby-plugin-sitemap",
-    {
-      resolve: "gatsby-source-filesystem",
-      options: {
-        name: "images",
-        path: "./src/images/",
-      },
-      __key: "images",
-    },
   ],
 }
