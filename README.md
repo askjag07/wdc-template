@@ -84,7 +84,7 @@
 
   ix. Enter your GitHub username and password again and press <kbd>Enter</kbd> until you see the <code>Repository name</code> search menu.
 
-  x. In the search menu, type <code>columbusacademy/wdc-jamplate</code>, and press <kbd>Enter</kbd>.
+  x. In the search menu, type <code>askjag07/wdc-template</code>, and press <kbd>Enter</kbd>.
 
   xi. The file explorer should open. Click the Desktop folder and press <kbd>Enter</kbd>.
 
@@ -284,7 +284,7 @@ If you have any questions or interesting ideas, we're here to help. [Email us](m
   2. Type the following, pressing <kbd>Enter</kbd> after each line.
 
      ```bash
-         cd OneDrive/Desktop/wdc-jamplate-main
+         cd OneDrive/Desktop/wdc-template-main
          nvs add lts
          nvs use lts
          nvs link lts
