@@ -28,13 +28,13 @@
 
 2. ### [To the Internet!](#🚀-to-the-internet)
 
-   a. [**Login to GitHub**]()
+   a. [**Login to GitHub**](https://github.com/signup)
 
-   b. [**Initialize a repository**]()
+   b. [**Initialize a repository**](https://github.com)
 
-   c. [**Login to Gatsby Cloud**]()
+   c. [**Login to Gatsby Cloud**](https://www.gatsbyjs.com/dashboard/signup)
 
-   d. [**Launch your website**]()
+   d. [**Launch your website**](https://www.gatsbyjs.com/dashboard)
 
 3. ### [Remember: Ask questions!](#👑-remember-ask-questions)
 
@@ -249,7 +249,7 @@ If you have any questions or interesting ideas, we're here to help. [Email us](m
 
 ### MacOS
 
-- [**Download Visual Studio Code**](https://code.visualstudio.com/)
+- [**Download Visual Studio Code**](https://code.visualstudio.com)
 
 - **Download Git**
 
@@ -265,7 +265,7 @@ If you have any questions or interesting ideas, we're here to help. [Email us](m
 
 ### Windows
 
-- [**Download Visual Studio Code**](https://code.visualstudio.com/)
+- [**Download Visual Studio Code**](https://code.visualstudio.com)
 
 - [**Download Git**](https://git-scm.com/download/win)
 
